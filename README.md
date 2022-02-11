@@ -1,6 +1,6 @@
-### Olá, me chamo Gilcimar Barros!
+### Olá, me chamo Gilcimar Barros da Silva!
 
-- 🔭 Atualmente trabalhando com HTML, CSS e JAVASCRIPT.
+- 🔭 Atualmente estou trabalhando com HTML, CSS e JAVASCRIPT.
 - 🌱 Estudando HTML, CSS, JAVASCRIPT E REACT.
 
 ##
