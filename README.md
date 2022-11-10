@@ -1,6 +1,6 @@
 ### Olá, me chamo Gilcimar Barros da Silva!
 
-- 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas.
+- 🔭 Atualmente cursando tecnologo em desenvolvimento mobile.
 - 🌱 Estudando desenvovimento Web e Mobile.
 
 ##
