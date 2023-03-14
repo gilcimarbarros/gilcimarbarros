@@ -13,6 +13,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gil-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Gil-Kotlin" height="30" width="40" src=https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg
 </div>
   
   ##
