@@ -1,7 +1,8 @@
 ### Olá, me chamo Gilcimar Barros da Silva!
 
-- 🔭 Atualmente cursando tecnologo em desenvolvimento mobile.
-- 🌱 Estudando desenvovimento Web e Mobile.
+- ![StudyingWindyGIF](https://user-images.githubusercontent.com/11757157/224872134-cb26aa4a-6a64-48ce-a83a-1521c86a2138.gif)
+🔭 Atualmente cursando tecnologo em desenvolvimento mobile.
+- 👨‍💻 Desenvolvedor Mobile Android.
 
 ##
 
