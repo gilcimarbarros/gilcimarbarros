@@ -1,7 +1,6 @@
 ### Olá, me chamo Gilcimar Barros da Silva!
 
-- ![StudyingWindyGIF](https://user-images.githubusercontent.com/11757157/224872134-cb26aa4a-6a64-48ce-a83a-1521c86a2138.gif)
-🔭 Atualmente cursando tecnologo em desenvolvimento mobile.
+- 👨‍🎓 Atualmente cursando tecnologo em desenvolvimento mobile.
 - 👨‍💻 Desenvolvedor Mobile Android.
 
 ##
@@ -9,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/gilcimarbarros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilcimarbarros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilcimarbarros&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilcimarbarros&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
 <div style="display: inline_block"><br>
