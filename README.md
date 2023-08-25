@@ -13,7 +13,8 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gil-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Gil-Kotlin" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Gil-Android" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Gil-Firebase" height="33" width="44" src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg">
 </div>
   
   ##
