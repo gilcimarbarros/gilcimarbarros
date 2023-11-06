@@ -7,7 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/gilcimarbarros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilcimarbarros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  
 
 </div>
   
