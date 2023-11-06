@@ -1,7 +1,7 @@
 ### Olá, me chamo Gilcimar Barros da Silva!
 
-- 👨‍🎓 Atualmente cursando tecnologo em desenvolvimento mobile.
-- 👨‍💻 Desenvolvedor mobile android nativo.
+- 👨‍💻 Sou desenvolvedor mobile android nativo.
+- 👨‍🎓 Atualmente curso tecnologo em desenvolvimento mobile.
 
 ##
 
@@ -26,6 +26,4 @@
 <a href="mailto:gilcimar.barros@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
   ##
-  
-
 </div>
