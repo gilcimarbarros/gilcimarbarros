@@ -1,7 +1,6 @@
 ### Olá, me chamo Gilcimar Barros da Silva!
 
 - 👨‍💻 Sou desenvolvedor mobile android nativo.
-- 👨‍🎓 Atualmente curso tecnologo em desenvolvimento mobile.
 
 ##
 
