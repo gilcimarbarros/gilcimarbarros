@@ -1,6 +1,6 @@
 ### Olá, me chamo Gilcimar Barros da Silva!
 
-- 👨‍💻 Sou desenvolvedor mobile android nativo.
+- 👨‍💻 Sou desenvolvedor Fullstack.
 
 ##
 
