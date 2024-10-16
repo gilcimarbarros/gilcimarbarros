@@ -1,6 +1,7 @@
 ### Olá, me chamo Gilcimar Barros da Silva!
 
-- 👨‍💻 Sou desenvolvedor Fullstack.
+- 👨‍💻 I'm a Fullstack developer.
+- 👨‍🎓 I'm studying for a bachelor's degree in software engineering.
 
 ##
 
