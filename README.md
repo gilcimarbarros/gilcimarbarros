@@ -13,7 +13,7 @@
   
 <div style="display: inline_block" align="center"><br>
               
-  <img align="center" alt="Gil-Html" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="Gil-Html" height="33" width="44" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Gil-CSS" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Gil-Javascript" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">   
   <img align="center" alt="Gil-Nodejs" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
